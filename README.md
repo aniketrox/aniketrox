@@ -15,7 +15,7 @@ I am also Current core lead of AI/ML team at GDSC-RKMGEC, founding member and di
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/>
