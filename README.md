@@ -23,8 +23,8 @@ I am also Current core lead of AI/ML team at GDSC-RKMGEC, founding member and di
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="CSS Logo" width="50" height="50"/>
