@@ -15,8 +15,7 @@ I am also Current core lead of AI/ML team at GDSC-RKMGEC, founding member and di
 
 🧰 Toolbox
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="JavaScript Logo" width="50" height="50"/><img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50" height="50"/>
