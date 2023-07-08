@@ -3,7 +3,7 @@
 ## <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CseAniket?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketrox?style=social">  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aniketrox?style=social">
 
 
-Currently persuing B.Tech. in Computer Science & Engineering and doing great in backend development using Django, Machine Learning using python and Quantum Computing using Qiskit.
+Currently persuing B.Tech. in Computer Science & Engineering and doing great in backend development using Django, Deep Learning using tensorflow and pytorch in python and Quantum Computing using Qiskit.
 Based on aforesaid areas I must say that My favourite programming language is Python.
 
 Previously I made a Bitcoin Market Volume Prediction Software using Python tkinter and Sci-kitlearn. There I use multiple regression model to solve that particular problem.
