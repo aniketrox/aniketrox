@@ -6,7 +6,7 @@
 Currently persuing B.Tech. in Computer Science & Engineering and doing great in backend development using Django, Deep Learning using tensorflow and pytorch in python and Quantum Computing using Qiskit.
 Based on aforesaid areas I must say that My favourite programming language is Python.
 
-Previously I made a Bitcoin Market Volume Prediction Software using Python tkinter and Sci-kitlearn. There I use multiple regression model to solve that particular problem.
+Previously I made a Bitcoin Market Volume Prediction Software using Python tkinter , Sci-kitlearn and a medical image classification software based on lukemia and brain tumour prediction using pytorch.
 Currently I am working on two django based project.One is about the Store Management System of my College and another is AI based Exam monitory tool where I have deployed the face recognition model in django environment.
 --
 I am also Current core lead of AI/ML team at GDSC-RKMGEC, founding member and director of CARQ-Quantum(Center for Aerospace Research & Quantum Computing) and member at RIC(Robotics & Innovation Center).
