@@ -7,7 +7,7 @@ Final year B.Tech. undergrad in Computer Science & Engineering and doing great i
 
 Previously I have worked on Cross-ViT where I incorporated masksemble for uncertainity prediction in ISIC skin cancer classification. It's preprint paper available at SSRN. Also I used to develop medical image classification software based on lukemia and brain tumour prediction using pytorch. Currently I am doing great in image segmentation, segment anything model(SAM) and Natural Language Processing .
 --
-I am also Current core lead of AI/ML team at GDSC-RKMGEC, founding member and director of CARQ-Quantum(Center for Aerospace Research & Quantum Computing) and member at RIC(Robotics & Innovation Center).
+I was ex-Summer Research Fellow at IIT Tirupati selected by IAS-INSA-NSAI. Also I worked as Research Intern at Calcutta University.
 
 ---
 
