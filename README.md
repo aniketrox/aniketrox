@@ -3,11 +3,9 @@
 ## <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CseAniket?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketrox?style=social">  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aniketrox?style=social">
 
 
-Currently persuing B.Tech. in Computer Science & Engineering and doing great in backend development using Django, Deep Learning using tensorflow and pytorch in python and Quantum Computing using Qiskit.
-Based on aforesaid areas I must say that My favourite programming language is Python.
+Final year B.Tech. undergrad in Computer Science & Engineering and doing great in computer vision and NLP research ,Deep Learning using tensorflow and pytorch in python and backend development using Django.
 
-Previously I made a Bitcoin Market Volume Prediction Software using Python tkinter , Sci-kitlearn and a medical image classification software based on lukemia and brain tumour prediction using pytorch.
-Currently I am working on two django based project.One is about the Store Management System of my College and another is AI based Exam monitory tool where I have deployed the face recognition model in django environment.
+Previously I have worked on Cross-ViT where I incorporated masksemble for uncertainity prediction in ISIC skin cancer classification. It's preprint paper available at SSRN. Also I used to develop medical image classification software based on lukemia and brain tumour prediction using pytorch. Currently I am doing great in image segmentation, segment anything model(SAM) and Natural Language Processing .
 --
 I am also Current core lead of AI/ML team at GDSC-RKMGEC, founding member and director of CARQ-Quantum(Center for Aerospace Research & Quantum Computing) and member at RIC(Robotics & Innovation Center).
 
